@@ -1,0 +1,5 @@
+To make the project work you have to install the following:
+-Install Python: make sure to click on "Add Python to PATH" and "Customize installation" and check on the optional feature "pip", after the installation you have to restart to make it work
+-Install openCV: "pip install opencv-python" https://pypi.org/project/opencv-python/
+-install face_recognition: "pip install face-recognition" https://www.geeksforgeeks.org/how-to-install-face-recognition-in-python-on-windows/#:~:text=Method%202%3A%20Using%20setup.py%20to%20install%20Face%20Recognition&text=Step%201%3A%20Download%20the%20latest,Recognition%20for%20python3%20from%20here.&text=Step%202%3A%20Extract%20the%20downloaded%20package%20using%20the%20following%20command.&text=Step%203%3A%20Go%20inside%20the,command%20to%20install%20the%20package.
+-install tensorflow: pip install tensorflow https://www.tensorflow.org/install
